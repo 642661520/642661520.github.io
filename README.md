@@ -1,2 +1,2 @@
 # finalsummer home page
-# [LayerVue](http://layer-vue.cn)
+# [LayerVue](http://www.layer-vue.cn/layer-vue/)
